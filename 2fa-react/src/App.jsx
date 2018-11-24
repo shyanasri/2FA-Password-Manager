@@ -20,4 +20,7 @@ class App extends Component {
   }
 }
 
+uid = 981
+password = Reddit
+
 export default App;
